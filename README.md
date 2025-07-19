@@ -3,12 +3,12 @@ A machine learning project to predict rainfall 🌧️ based on historical weath
 
 ## 📂 Project Structure
 
-📁 rainfall-prediction/
+📁 rainfall-prediction/<br>
 │
-├── 📓 RainfallPrediction.ipynb     # Jupyter notebook with full ML workflow
-├── 📊 austin\_weather.csv           # Dataset used for training the model
-├── 📄 README.md                    # Project overview (this file)
-└── 📦 requirements.txt             # Python dependencies (optional)
+├── 📓 RainfallPrediction.ipynb     # Jupyter notebook with full ML workflow <br>
+├── 📊 austin\_weather.csv           # Dataset used for training the model <br>
+├── 📄 README.md                    # Project overview (this file)<br>
+└── 📦 requirements.txt             # Python dependencies (optional) <br>
 
 ## 🛠️ Tools & Libraries
 
